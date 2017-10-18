@@ -1,0 +1,2 @@
+# LootBox
+Generate loot boxes
