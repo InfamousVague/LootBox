@@ -1,0 +1,25 @@
+{
+  "name": "lootbox",
+  "version": "1.0.2",
+  "description": "Generate loot boxes",
+  "main": "LootBox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wski/LootBox.git"
+  },
+  "keywords": [
+    "loot",
+    "box",
+    "class",
+    "gaming"
+  ],
+  "author": "wski <contact.mattdylan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wski/LootBox/issues"
+  },
+  "homepage": "https://github.com/wski/LootBox#readme"
+}
